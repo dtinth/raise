@@ -1,0 +1,24 @@
+{
+  "name": "raisejs",
+  "version": "0.9.9",
+  "description": "Ruby's raise for JavaScript. Allows you to throw Errors as an expression.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dtinth/raise.git"
+  },
+  "keywords": [
+    "error",
+    "exception",
+    "raise"
+  ],
+  "author": "Thai Pangsakulyanont <org.yi.dttvb@gmail.com> (http://dt.in.th/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtinth/raise/issues"
+  },
+  "homepage": "https://github.com/dtinth/raise"
+}
