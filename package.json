@@ -1,6 +1,6 @@
 {
   "name": "raisejs",
-  "version": "0.9.9",
+  "version": "1.0.0",
   "description": "Ruby's raise for JavaScript. Allows you to throw Errors as an expression.",
   "main": "index.js",
   "scripts": {
